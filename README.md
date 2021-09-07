@@ -1,4 +1,4 @@
-# DUCO CLI Wallet | Lastest Update <code>7 Sep 2021</code>
+# DUCO CLI Wallet
 
 <h3>This project is DUCO CLI Wallet</h3>
 <hr><br>
