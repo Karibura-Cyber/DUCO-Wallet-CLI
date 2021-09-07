@@ -1,80 +1,25 @@
-# DUCO CLI Wallet | Lastest Update <code>11 Aug 2021</code>
+# DUCO CLI Wallet | Lastest Update <code>7 Sep 2021</code>
 
-
-<h2>English</h2>
-<h3>This project is an implementation of Flask, one of Python's web libraries and JSON.</h3>
+<h3>This project is DUCO CLI Wallet</h3>
 <hr><br>
-<h2>ภาษาไทย</h2>
-<h3>โปรเจคนี้คือการนำ Flask ที่เป็นหนึ่งใน Web Library ของ Python มาประยุกต์ใช้กับ JSON โดยได้ใช้ JSON ในการเป็นตัวที่ใช้เก็บข้อมูล</h3><hr><br><br>
-<h2>How to use<h2><br>
 
-
-  <h2>CMD</h2>
-  
-```
-set FLASK_APP=main.py
-```
-```
-flask run
-```
-
-  <h2> Powershell</h2>
-  
-```
-$env:FLASK_APP = "hello"
-```
-```
-flask run
-```
-
-  <h2> Linux </h2>
-  
-```
-export FLASK_APP=main.py
-```
-```
-flask run
-```
-  
-  
-<h2>Requirement</h2><br>
-
-```
-pip install Flask
-```
-
- <br>
-<h2>Updating Log</h2>
-  
-* 5 Aug 2021
-  * Signup page
-  * Signin page
-  * JSON
-* 6 Aug 2021
-  * Profile Info Page
-  * REST API
-    * username
-    * score
-* 8 Aug 2021
-  * Profile Picture Upload Page 
-* 11 Aug 2021
-  * Forget password send password to gmail
-  
+ 
   <br>
 <h2>Picture</h2><hr><br>
-<code>/signin</code>
-<img src="https://scontent.fbkk6-2.fna.fbcdn.net/v/t1.15752-9/229313522_550775872638200_5466831548473750642_n.png?_nc_cat=107&ccb=1-5&_nc_sid=ae9488&_nc_ohc=nGH3xGJZsjMAX9pG0Gl&tn=6hU7arYck_OOlEOT&_nc_ht=scontent.fbkk6-2.fna&oh=a757b1bda7015cec5533489700f912f7&oe=615A2BA3"><br>
-<code>/signup</code>
-<img src="https://scontent.fbkk6-2.fna.fbcdn.net/v/t1.15752-9/232702341_300958265116348_2442791509478958799_n.png?_nc_cat=101&ccb=1-5&_nc_sid=ae9488&_nc_ohc=xCNNf4atJVoAX8GcDai&_nc_ht=scontent.fbkk6-2.fna&oh=13b8c420a0f02e1c8334f5398dccba40&oe=615CF10C">
-<code>/userinfo/</code>
-<img src="https://scontent.fbkk6-2.fna.fbcdn.net/v/t1.15752-9/228132395_234166941909507_7636189233259409638_n.png?_nc_cat=101&ccb=1-5&_nc_sid=ae9488&_nc_ohc=k93xzrUoUnUAX_ii2p3&tn=6hU7arYck_OOlEOT&_nc_ht=scontent.fbkk6-2.fna&oh=37543070ad3de6b5b21b73b057c43f61&oe=615D6492">
-  <code>/api/</code>
-<img src="https://scontent.fbkk6-1.fna.fbcdn.net/v/t1.15752-9/222640290_950336555817980_1577264661621055369_n.png?_nc_cat=110&ccb=1-5&_nc_sid=ae9488&_nc_ohc=SKqqib_gJbQAX8HsWEE&_nc_ht=scontent.fbkk6-1.fna&oh=35d12aefbd79382cd3a5e9ae816ab592&oe=615DD4A4">
-  <code>/userinfo/upload</code>
-  <img src="https://scontent.fbkk6-2.fna.fbcdn.net/v/t1.15752-9/234227195_262638382019340_308352488455880468_n.png?_nc_cat=101&ccb=1-5&_nc_sid=ae9488&_nc_ohc=Pn2uc_Ttr8YAX9fERXZ&_nc_ht=scontent.fbkk6-2.fna&oh=69082f10072da73d32c42a38c484c1a8&oe=615C282A">
-  <code>/forget</code>
- <img src="https://scontent.fbkk21-1.fna.fbcdn.net/v/t1.15752-9/221261005_4272992342766729_6596585261870088010_n.png?_nc_cat=101&ccb=1-4&_nc_sid=ae9488&_nc_eui2=AeE98GruuwskGehVtJ0bP4WZIuU_UudIk80i5T9S50iTzYyiBYvtQy2YQLIYVSRqiYZCcSaHOhgfIlVR6TTuO95x&_nc_ohc=DRqVkvs7Sd4AX-pOXn7&_nc_ht=scontent.fbkk21-1.fna&oh=1c623e43a43e0f032430f55c9c5a506d&oe=61387C1F">
-  
+<code>Login</code>
+<img src="https://scontent.fbkk6-2.fna.fbcdn.net/v/t1.15752-9/240907618_827549661290507_4438466845719636936_n.png?_nc_cat=103&ccb=1-5&_nc_sid=ae9488&_nc_ohc=Kljyv9gyPjcAX9BwRU_&tn=6hU7arYck_OOlEOT&_nc_ht=scontent.fbkk6-2.fna&oh=61c3420c1c954a4c800fac5fc2fa2f9f&oe=615B784F"><br>
+<code>Dashboard</code>
+<img src="https://scontent.fbkk6-1.fna.fbcdn.net/v/t1.15752-9/240877776_581854286302716_7335641191473902121_n.png?_nc_cat=108&ccb=1-5&_nc_sid=ae9488&_nc_ohc=6UzM_53WPdcAX-Tu1_n&tn=6hU7arYck_OOlEOT&_nc_ht=scontent.fbkk6-1.fna&oh=0b24d2c0568e7dd251057fe747dc9d82&oe=615D9B0D">
+<code>/balance/</code>
+<img src="https://scontent.fbkk6-1.fna.fbcdn.net/v/t1.15752-9/240602034_214487390703573_6132828602367124828_n.png?_nc_cat=105&ccb=1-5&_nc_sid=ae9488&_nc_ohc=wBkiyLxc3woAX9wWnrm&_nc_ht=scontent.fbkk6-1.fna&oh=26d7323ec12c7d2696e7c5abe70ad43f&oe=615C6CF9">
+  <code>/transactions</code>
+<img src="https://scontent.fbkk6-1.fna.fbcdn.net/v/t1.15752-9/241265403_1056561038421229_5366197623921441088_n.png?_nc_cat=110&ccb=1-5&_nc_sid=ae9488&_nc_ohc=XdCYghvG5RQAX8GGDp3&_nc_ht=scontent.fbkk6-1.fna&oh=ca0ac6cf87594661e7ec23893f328efb&oe=615C809D">
+  <code>/tranfer (No Verified)</code>
+  <img src="https://scontent.fbkk6-2.fna.fbcdn.net/v/t1.15752-9/240771777_546258463258442_6435368962528198886_n.png?_nc_cat=107&ccb=1-5&_nc_sid=ae9488&_nc_ohc=tzf36HO78QgAX9kSxxX&tn=6hU7arYck_OOlEOT&_nc_ht=scontent.fbkk6-2.fna&oh=d0960c62589323a1acf4f66b68423c3a&oe=615B76B6">
+  <code>/tranfer (Verified)</code>
+ <img src="https://scontent.fbkk6-1.fna.fbcdn.net/v/t1.15752-9/240578696_1724755814386798_8279874893321469379_n.png?_nc_cat=105&ccb=1-5&_nc_sid=ae9488&_nc_ohc=7t2txwZf68cAX9jvUbO&_nc_ht=scontent.fbkk6-1.fna&oh=124b3111d435720666bf839135905428&oe=615D061F">
+  <code>/miners</code>
+ <img src="https://scontent.fbkk6-1.fna.fbcdn.net/v/t1.15752-9/240762461_1131287657401365_5543061372751871032_n.png?_nc_cat=102&ccb=1-5&_nc_sid=ae9488&_nc_ohc=ZdLwXTcFdsQAX8-MMHD&_nc_ht=scontent.fbkk6-1.fna&oh=8a8ef684af0b979753c0ee356c57497a&oe=615E1B5D">
 
   <hr><br>
-  <!-- <h3 align="center">Development By <a href="https://github.com/Karibura-Cyber">Karibura (Meck)</a> 100% No Copyright</h3> -->
+<h3 align="center">Development By <a href="https://github.com/Karibura-Cyber">Karibura (Meck)</a></h3>
