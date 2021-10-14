@@ -6,21 +6,27 @@
  
   <br>
 <h2>Picture</h2><hr><br>
-<code>Login</code>
-<img src="http://alsthewell.ezyro.com/login.png"><br>
-<code>Dashboard</code>
-<img src="http://alsthewell.ezyro.com/dashboard.png"><br>
-<code>balance/</code>
-<img src="http://alsthewell.ezyro.com/balance.png"><br>
-  <code>transactions</code>
-<img src="https://scontent.fbkk6-1.fna.fbcdn.net/v/t1.15752-9/241265403_1056561038421229_5366197623921441088_n.png?_nc_cat=110&ccb=1-5&_nc_sid=ae9488&_nc_ohc=XdCYghvG5RQAX8GGDp3&_nc_ht=scontent.fbkk6-1.fna&oh=ca0ac6cf87594661e7ec23893f328efb&oe=615C809D"><br>
-<code>tranfer<code>
- <img src="https://scontent.fbkk6-1.fna.fbcdn.net/v/t1.15752-9/240578696_1724755814386798_8279874893321469379_n.png?_nc_cat=105&ccb=1-5&_nc_sid=ae9488&_nc_ohc=7t2txwZf68cAX9jvUbO&_nc_ht=scontent.fbkk6-1.fna&oh=124b3111d435720666bf839135905428&oe=615D061F"><br>
-  <code>miners</code>
- <img src="https://scontent.fbkk6-1.fna.fbcdn.net/v/t1.15752-9/240762461_1131287657401365_5543061372751871032_n.png?_nc_cat=102&ccb=1-5&_nc_sid=ae9488&_nc_ohc=ZdLwXTcFdsQAX8-MMHD&_nc_ht=scontent.fbkk6-1.fna&oh=8a8ef684af0b979753c0ee356c57497a&oe=615E1B5D"><br>
- <code>log</code>
- <img src="http://alsthewell.ezyro.com/log1.png"><br>
- <img src="http://alsthewell.ezyro.com/log2.png"><br>
+<h2>Login</h2><br>
+<img src="https://scontent.fbkk6-1.fna.fbcdn.net/v/t1.15752-9/245649666_439700887501987_5114305611114153992_n.png?_nc_cat=105&ccb=1-5&_nc_sid=ae9488&_nc_ohc=viEYfV2ZdVQAX8fwf5g&_nc_ht=scontent.fbkk6-1.fna&oh=69cb1223cafa74681b7105f405b4626a&oe=618DA5BE"><br>
+
+<h2>Dashboard</h2><br>
+<img src="https://scontent.fbkk6-1.fna.fbcdn.net/v/t1.15752-9/245556623_587930695977243_3638647479914060202_n.png?_nc_cat=108&ccb=1-5&_nc_sid=ae9488&_nc_ohc=QTFDAkdCcIcAX8eOeUG&_nc_ht=scontent.fbkk6-1.fna&oh=fe47d1f59853d50cd510d5e0a4d1f666&oe=618F68B8"><br>
+
+<h2>balance/</h2><br>
+<img src="https://scontent.fbkk6-2.fna.fbcdn.net/v/t1.15752-9/245565262_1246294479203349_2096678764649330440_n.png?_nc_cat=103&ccb=1-5&_nc_sid=ae9488&_nc_ohc=sPrGDfPWRs8AX_hTguk&_nc_ht=scontent.fbkk6-2.fna&oh=a8cbc3c8f9d208459a7d0ad05186e8f8&oe=618C7555"><br>
+
+<h2>transactions</h2><br>
+<img src="https://scontent.fbkk6-2.fna.fbcdn.net/v/t1.15752-9/245642054_239066404915373_4908832273754346961_n.png?_nc_cat=109&ccb=1-5&_nc_sid=ae9488&_nc_ohc=kDFa6L19zaIAX91_wym&_nc_ht=scontent.fbkk6-2.fna&oh=5292029f013cb2274f4ee1c44e89075c&oe=618CBCFC"><br>
+
+<h2>tranfer</h2><br>
+<img src="https://scontent.fbkk6-1.fna.fbcdn.net/v/t1.15752-9/245532450_6975483825810926_2409451574839356491_n.png?_nc_cat=111&ccb=1-5&_nc_sid=ae9488&_nc_ohc=cnCDqDXHgKMAX_qILKz&tn=yaaBA06xWktnPkEU&_nc_ht=scontent.fbkk6-1.fna&oh=34ad98c60437ca5a7bd5f56488d630d3&oe=618DD2BD"><br>
+ 
+<h2>miners</h2><br>
+<img src="https://scontent.fbkk6-1.fna.fbcdn.net/v/t1.15752-9/245642071_1263778100805166_1570489603321498774_n.png?_nc_cat=105&ccb=1-5&_nc_sid=ae9488&_nc_ohc=fbUCGZIliYcAX_GSxuI&tn=yaaBA06xWktnPkEU&_nc_ht=scontent.fbkk6-1.fna&oh=fca8930208dde0c12cae44998f519e14&oe=618EA83C"><br>
+ 
+<h2>log</h2><br>
+<img src="https://scontent.fbkk6-2.fna.fbcdn.net/v/t1.15752-9/245806711_876420046348580_8487118474003356354_n.png?_nc_cat=107&ccb=1-5&_nc_sid=ae9488&_nc_ohc=tBtrRxy-Q2gAX8cffKM&_nc_ht=scontent.fbkk6-2.fna&oh=b3cf5d469ab4616d5cc9f934ecbedd9e&oe=618E5507"><br>
+<img src="https://scontent.fbkk6-2.fna.fbcdn.net/v/t1.15752-9/245451073_461111581860515_3302964102399393239_n.png?_nc_cat=104&ccb=1-5&_nc_sid=ae9488&_nc_ohc=Krh7H7Wu6KkAX8yMir5&_nc_ht=scontent.fbkk6-2.fna&oh=05c891050b274da0ccac6a8bd35f97dc&oe=618FC789"><br>
 
   <hr><br>
 <h3 align="center">DUCO ID: gilly </h3>  
